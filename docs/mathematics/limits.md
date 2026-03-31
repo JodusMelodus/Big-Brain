@@ -9,3 +9,5 @@ and
 $$\lim_{x\rightarrow a}h(x) = L$$
 then
 $$\lim_{x\rightarrow a}g(x) = L$$
+
+[Go back](../mathematics.md)
