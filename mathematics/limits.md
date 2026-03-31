@@ -2,7 +2,7 @@
 
 ## Squeeze Theorem
 
-$$f(x) < g(x) < h(x)$$
+$$f(x) \leq g(x) \leq h(x)$$
 if
 $$\lim_{x\rightarrow a}f(x) = L$$
 and
