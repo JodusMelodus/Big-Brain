@@ -1,5 +1,8 @@
 # Limits
 
+## Limit Rules
+$$\lim{k}=k$$
+
 ## Squeeze Theorem
 
 $$f(x) \leq g(x) \leq h(x)$$
